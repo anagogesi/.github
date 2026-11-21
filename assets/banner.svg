@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320">
+  <!-- Clean README Header Banner -->
+  <rect width="1000" height="320" rx="24" fill="#F4F6FB"/>
+
+  <!-- Subtle accent dots -->
+  <circle cx="916" cy="56" r="5" fill="#C7D2FE"/>
+  <circle cx="944" cy="56" r="5" fill="#C7D2FE"/>
+  <circle cx="944" cy="84" r="5" fill="#E0E7FF"/>
+
+  <!-- Hippo Icon on Left -->
+  <g transform="translate(56, 16) scale(0.56)">
+    <circle cx="356" cy="134" r="42" fill="#FEF3C7" opacity="0.95"/>
+    <path d="M356 94 L366 124 L396 134 L366 144 L356 174 L346 144 L316 134 L346 124 Z" fill="#F59E0B"/>
+    <circle cx="310" cy="102" r="6" fill="#FBBF24"/>
+    <g transform="translate(246, 274) rotate(-14) translate(-246, -274)">
+      <ellipse cx="174" cy="172" rx="22" ry="26" fill="#3730A3" stroke="#1E1B4B" stroke-width="10"/>
+      <ellipse cx="174" cy="174" rx="10" ry="13" fill="#A5B4FC"/>
+      <ellipse cx="292" cy="172" rx="22" ry="26" fill="#3730A3" stroke="#1E1B4B" stroke-width="10"/>
+      <ellipse cx="292" cy="174" rx="10" ry="13" fill="#A5B4FC"/>
+      <path d="M146 276 C146 194, 182 162, 233 162 C284 162, 320 194, 320 276 Z"
+            fill="#4F46E5" stroke="#1E1B4B" stroke-width="10" stroke-linejoin="round"/>
+      <circle cx="202" cy="222" r="14" fill="#1E1B4B"/>
+      <circle cx="206" cy="217" r="5" fill="#FFFFFF"/>
+      <circle cx="270" cy="222" r="14" fill="#1E1B4B"/>
+      <circle cx="274" cy="217" r="5" fill="#FFFFFF"/>
+      <rect x="132" y="242" width="212" height="120" rx="58"
+            fill="#C7D2FE" stroke="#1E1B4B" stroke-width="10"/>
+      <path d="M178 256 Q238 248 294 256" fill="none" stroke="#E0E7FF" stroke-width="7" stroke-linecap="round"/>
+      <ellipse cx="200" cy="286" rx="9" ry="12" transform="rotate(-12 200 286)" fill="#312E81"/>
+      <ellipse cx="276" cy="286" rx="9" ry="12" transform="rotate(12 276 286)" fill="#312E81"/>
+      <path d="M214 326 Q238 340 262 326" fill="none" stroke="#1E1B4B" stroke-width="8" stroke-linecap="round"/>
+    </g>
+    <rect x="64" y="352" width="384" height="114" fill="#F4F6FB"/>
+    <rect x="96" y="352" width="320" height="16" rx="8" fill="#4F46E5"/>
+    <rect x="134" y="384" width="244" height="16" rx="8" fill="#818CF8"/>
+    <rect x="176" y="416" width="160" height="16" rx="8" fill="#C7D2FE"/>
+  </g>
+
+  <!-- Typography on Right -->
+  <text x="368" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="76" font-weight="800" letter-spacing="-1.5" fill="#1E1B4B">anagoge<tspan fill="#4F46E5">.si</tspan></text>
+  <text x="372" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="25" font-weight="500" fill="#475569">Grounded foundation, ascending intelligence.</text>
+</svg>
