@@ -3,28 +3,29 @@
 </p>
 
 <h3 align="center">
-  Grounded foundation, ascending intelligence.
+  Curious AI, built in the open.
 </h3>
 
 <p align="center">
-  <a href="https://anagoge.si">Website</a> ·
+  <a href="https://anagogesi.github.io">Website</a> ·
   <a href="https://github.com/orgs/anagogesi/repositories">Repositories</a>
 </p>
 
 ---
 
-### Why Anagoge?
+### About Anagoge
 
-**Anagoge** (*ἀναγωγή*) means *an upward leading* — moving beyond literal surface tokens toward higher-order understanding.
+An indie open-source AI lab & playground. We build small, sharp AI tools, agent experiments, and curious developer software.
 
-Our mascot is a hippo gazing up at the North Star: grounded in solid engineering, wired like a **hippocampus** for memory and reasoning, and always aiming upward.
+- **Anagoge** (*ἀναγωγή*) means *an upward leading* — turning rough curiosity into sharper insight.
+- **Our Mascot** is a stargazing hippo: grounded engineering with a playful, uncorporate spirit.
 
-### What We Build
+### What We Tinker With
 
-- **Agentic Systems & Reasoning** — tools that plan, remember, and verify.
-- **Open-Source AI Infrastructure** — clean, composable building blocks for developers.
+- **AI Agents & Workflows** — experimental assistants, automation, and tool use.
+- **Developer Toys & Utilities** — lightweight, composable open-source building blocks.
 
 ### Community
 
-- Website: [anagoge.si](https://anagoge.si)
-- Discussions & Issues: Open in each repository — PRs and ideas are always welcome.
+- Website: [anagoge.si](https://anagoge.si) ([preview](https://anagogesi.github.io))
+- Issues & PRs: Open across all repositories — ideas and forks are always welcome.
